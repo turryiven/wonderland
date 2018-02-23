@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1519033751 source:d:\code test\first\main.cpp
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<stdexcept>
+	<iostream>
+
+1519033503 source:d:\code test\first\exercise.cpp
+
